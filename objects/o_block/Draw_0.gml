@@ -1,0 +1,10 @@
+draw_self();
+/*
+draw_circle(vertUL.x0,vertUL.y0,4,0);
+draw_text(vertUL.x0,vertUL.y0,"UL");
+draw_circle(vertUR.x0,vertUR.y0,4,0);
+draw_text(vertUR.x0,vertUR.y0,"UR");
+draw_circle(vertBR.x0,vertBR.y0,4,0);
+draw_text(vertBR.x0,vertBR.y0,"BR");
+draw_circle(vertBL.x0,vertBL.y0,4,0);
+draw_text(vertBL.x0,vertBL.y0,"BL");

@@ -1,0 +1,1 @@
+light = col_set_val(col_set_sat(col_inv(o_lightcontroller.col_light), 150), 150);
